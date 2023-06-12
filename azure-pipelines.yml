@@ -23,4 +23,4 @@ steps:
     containerRegistry: 'Docker-connection'
     repository: 'ashishcs401 / new_repo'
     command: 'buildAndPush'
-    Dockerfile: '**/Dockerfile'
+    Dockerfile: 'Domain 1 - Core Concepts/Dockerfile'
